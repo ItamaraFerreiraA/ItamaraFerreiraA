@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamaraFerreiraA&layout=compact&hide_border=true&title_color=1053e9&text_color=6c00fa&bg_color=0d1117" />
 </div>
 
-## :computer: Hard Skils
+## :computer: Hard Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cs,mysql,php,css,html,react,bootstrap,figma,azure&perline=11)](https://skillicons.dev)
 
