@@ -9,7 +9,7 @@
 
 ## :computer: Hard Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,jquery,vue,cs,mysql,php,laravel,css,html,react,bootstrap,figma,gitlab,graphql,azure&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,jquery,vue,cs,mysql,php,laravel,css,html,react,bootstrap,figma,gitlab,graphql,azure&perline=16)](https://skillicons.dev)
 
 ##
  
